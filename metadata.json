@@ -1,0 +1,6 @@
+{
+  "name": "Badminton Live Stats Pro",
+  "description": "Software pencatat statistik dan skor pertandingan badminton langsung resmi dengan konfigurasi format pertandingan, ofisial, dan lembar skor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
